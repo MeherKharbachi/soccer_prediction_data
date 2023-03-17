@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "soccer_prediction_data"
+  site-url: "https://MeherKharbachi.github.io/soccer_prediction_data"
+  description: "Provide a data aggregator to prepare Instat Soccer data for use in a transformer-based model."
+  repo-branch: main
+  repo-url: "https://github.com/MeherKharbachi/soccer_prediction_data"
