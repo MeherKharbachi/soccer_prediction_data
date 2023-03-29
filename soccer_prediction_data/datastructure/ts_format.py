@@ -7,21 +7,26 @@ __all__ = ['FILE_METADATA', 'create_ts_file']
 import pandas as pd
 from pathlib import Path
 from typing import Dict
-from .data_extractor import STATS
+from ..config.mongo import mongo_init
+from soccer_prediction_data.datastructure.data_extractor import (
+    STATS,
+    COMPETITION_IDS,
+    data_aggregator,
+)
 
 # %% ../../nbs/dataStrcuture/05_ts_format.ipynb 4
 FILE_METADATA = {
-    "source": "Instat",
+    "source": "InStat",
     "creator": "Real-Analytics",
     "data_description": """More than 5 years of football data from leagues across the world that includes stats from both competing teams in each played game in each dimension.\n#The data describes a series of numbers achieved by each squad, which indicate their athletic performance.\n#This yields a database of almost 52k time series.""",
     "task": "The task is to  predict the outcomes of a set of soccer matches from leagues worldwide.",
     "problem_name": "soccer-preds",
     "time_stamps": "false",
-    "missing": "false",
+    "missing": "true",
     "univariate": "false",
-    "dimensions": 2,
+    "dimensions": 1,
     "equal_length": "true",
-    "class_label": "true 0 1 2",
+    "class_label": "true",
 }
 
 # %% ../../nbs/dataStrcuture/05_ts_format.ipynb 5
@@ -33,9 +38,8 @@ def create_ts_file(
 ) -> None:
     "Create a ts file from a Pandas dataframe."
 
-    # Check path.
-    if not Path(file_path).exists():
-        raise Exception("File path does not exist.")
+    # Check path.    
+    Path(file_path).mkdir(parents=True, exist_ok=True)
 
     # Create an empty ts file.
     with open(f"{file_path}/{file_name}.ts", "w") as f:
@@ -65,18 +69,40 @@ def create_ts_file(
         )
         # Add header file information.
         f.write(header)
+        # Init teams dict.
+        team_last_game = {}
         # Loop over data to extract info.
         for _, row in df.iterrows():
-            # Extract the values for each dimension and store them in separate lists.
-            # First dimension for home team features.
-            dim1_vals = list(row.filter(like="homeTeam")[2:])
-            # Second dimension for home team features.
-            dim2_vals = list(row.filter(like="awayTeam")[2:])
-            # Map results {homewin -> 0 , draw -> 1, awaywin -> 2}.
-            target_val = 0 if row.HS > row.AS else 2 if row.HS < row.AS else 1
-
-            # Combine the values for each dimension into a single string.
-            data_str = f"{','.join(str(val) for val in dim1_vals)}:{','.join(str(val) for val in dim2_vals)}:{target_val}"
-
-            # Write the string to the ts file.
-            f.write("\n"+ data_str + "\n")
+            # Extract game information.
+            # Home team features.
+            home_team_feats = row.filter(like="homeTeam")[2:].tolist()
+            # Away team features.
+            away_team_feats = row.filter(like="awayTeam")[2:].tolist()
+            # target values (team Ids and scored goals)
+            home_team_id = row["homeTeamId"]
+            home_team_goals = row["HS"]
+            away_team_id = row["awayTeamId"]
+            away_team_goals = row["AS"]
+            
+            # Add temporal feature.
+            # Home.
+            home_team_period = 0
+            if home_team_id in team_last_game:
+                home_team_period = (row["gameDate"] - team_last_game[home_team_id]).days + 1
+            team_last_game[home_team_id] = row["gameDate"]
+            
+            # Away.
+            away_team_period = 0
+            if away_team_id in team_last_game:
+                away_team_period = (row["gameDate"] - team_last_game[away_team_id]).days + 1
+            team_last_game[away_team_id] = row["gameDate"]
+            
+            # Put on each row each team features.
+            h_data_str = (
+                f"{','.join(str(val) for val in home_team_feats)},{home_team_period}:{home_team_goals},{home_team_id}"
+            )
+            a_data_str = (
+                f"{','.join(str(val) for val in away_team_feats)},{away_team_period}:{away_team_goals},{away_team_id}"
+            )
+            # Write stringq to the ts file.
+            f.write("\n" + h_data_str + "\n" + a_data_str)

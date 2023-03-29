@@ -1,0 +1,631 @@
+Lge,Sea,Date,HT,AT,HS,AS,GD,WDL,pr_HS,prd_AS,prd_W,prd_D,prd_L
+ARG1,23-24,16/04/2023,CA Banfield,Central Cordoba,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+ARG1,23-24,16/04/2023,Defensa y Justicia,Instituto de Córdoba,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+ARG1,23-24,16/04/2023,Velez Sarsfield,Barracas Central,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+ARG1,23-24,16/04/2023,Platense,CA Colon,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+ARG1,23-24,16/04/2023,Talleres Cordoba,San Lorenzo,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+ARG1,23-24,16/04/2023,Boca Juniors,Estudiantes,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+ARG1,23-24,16/04/2023,Atletico Tucuman,Rosario Central,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+ARG1,23-24,16/04/2023,Independiente,Racing Club,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+ARG1,23-24,16/04/2023,Newells Old Boys,River Plate,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+ARG1,23-24,16/04/2023,GyE La Plata,Belgrano Cordoba,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+ARG1,23-24,16/04/2023,Huracan,Argentinos Juniors,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+ARG1,23-24,16/04/2023,Union de Santa Fe,Tigre,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+ARG1,23-24,16/04/2023,Sarmiento de Junin,Arsenal Sarandi,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+ARG1,23-24,16/04/2023,CD Godoy Cruz,CA Lanus,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+ARG1,23-24,23/04/2023,Central Cordoba,CD Godoy Cruz,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+ARG1,23-24,23/04/2023,CA Lanus,Sarmiento de Junin,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+ARG1,23-24,23/04/2023,Arsenal Sarandi,Union de Santa Fe,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+ARG1,23-24,23/04/2023,Tigre,Huracan,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+ARG1,23-24,23/04/2023,Argentinos Juniors,GyE La Plata,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+ARG1,23-24,23/04/2023,Belgrano Cordoba,Newells Old Boys,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+ARG1,23-24,23/04/2023,River Plate,Independiente,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+ARG1,23-24,23/04/2023,Racing Club,Atletico Tucuman,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+ARG1,23-24,23/04/2023,Rosario Central,Boca Juniors,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+ARG1,23-24,23/04/2023,Estudiantes,Talleres Cordoba,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+ARG1,23-24,23/04/2023,San Lorenzo,Platense,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+ARG1,23-24,23/04/2023,CA Colon,Velez Sarsfield,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+ARG1,23-24,23/04/2023,Barracas Central,Defensa y Justicia,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+ARG1,23-24,23/04/2023,Instituto de Córdoba,CA Banfield,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+AUS1,22-23,14/04/2023,Newcastle United Jets,Macarthur FC,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+AUS1,22-23,15/04/2023,Central Coast Mariners,Melbourne City FC,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+AUS1,22-23,15/04/2023,Western Sydney Wanderers,Melbourne Victory,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+AUS1,22-23,16/04/2023,Wellington Phoenix,Brisbane Roar,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+AUS1,22-23,16/04/2023,Sydney FC,Perth Glory,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+AUS1,22-23,16/04/2023,Adelaide United,Western United,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+AUS1,22-23,21/04/2023,Western Sydney Wanderers,Wellington Phoenix,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+AUS1,22-23,22/04/2023,Newcastle United Jets,Central Coast Mariners,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+AUS1,22-23,22/04/2023,Western United,Melbourne City FC,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+AUS1,22-23,23/04/2023,Melbourne Victory,Macarthur FC,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+AUS1,22-23,23/04/2023,Perth Glory,Adelaide United,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+AUS1,22-23,24/04/2023,Brisbane Roar,Sydney FC,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+BEL1,22-23,15/04/2023,Cercle Brugge,St Truiden,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+BEL1,22-23,15/04/2023,Eupen,Waregem,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+BEL1,22-23,15/04/2023,Genk,Anderlecht,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+BEL1,22-23,15/04/2023,Mechelen,Gent,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+BEL1,22-23,15/04/2023,Oostende,Oud-Heverlee Leuven,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+BEL1,22-23,15/04/2023,Westerlo,Club Brugge,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+BEL1,22-23,15/04/2023,Antwerp,Kortrijk,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+BEL1,22-23,15/04/2023,Union Saint-Gilloise,RFC Seraing,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+BEL1,22-23,15/04/2023,Standard,Charleroi,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+BEL1,22-23,22/04/2023,Club Brugge,Eupen,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+BEL1,22-23,22/04/2023,Gent,Oostende,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+BEL1,22-23,22/04/2023,Kortrijk,Union Saint-Gilloise,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+BEL1,22-23,22/04/2023,Oud-Heverlee Leuven,Standard,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+BEL1,22-23,22/04/2023,Anderlecht,Mechelen,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+BEL1,22-23,22/04/2023,Charleroi,Genk,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+BEL1,22-23,22/04/2023,RFC Seraing,Westerlo,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+BEL1,22-23,22/04/2023,Waregem,Cercle Brugge,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+BEL1,22-23,22/04/2023,St Truiden,Antwerp,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+CHE1,22-23,15/04/2023,FC Basel,Young Boys,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+CHE1,22-23,15/04/2023,FC Luzern,FC Zurich,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+CHE1,22-23,15/04/2023,FC St Gallen,Winterthur,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+CHE1,22-23,15/04/2023,Grasshoppers Zurich,FC Sion,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+CHE1,22-23,15/04/2023,Servette Geneve,FC Lugano,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+CHE1,22-23,22/04/2023,FC Basel,FC Luzern,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+CHE1,22-23,22/04/2023,FC Lugano,FC Sion,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+CHE1,22-23,22/04/2023,Winterthur,Grasshoppers Zurich,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+CHE1,22-23,22/04/2023,FC Zurich,FC St Gallen,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+CHE1,22-23,22/04/2023,Young Boys,Servette Geneve,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+CHL1,23-24,16/04/2023,Audax Italiano,Universidad de Chile,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+CHL1,23-24,16/04/2023,Deportes Copiapo,CD Huachipato,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+CHL1,23-24,16/04/2023,Coquimbo Unido,Nublense,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+CHL1,23-24,16/04/2023,Curico Unido,Union Espanola,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+CHL1,23-24,16/04/2023,Everton,Deportes Magallanes,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+CHL1,23-24,16/04/2023,CD Palestino,CD Cobresal,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+CHL1,23-24,16/04/2023,Union La Calera,Higgins,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+CHL1,23-24,16/04/2023,Universidad Catolica,Colo Colo,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+CHL1,23-24,23/04/2023,CD Cobresal,Curico Unido,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+CHL1,23-24,23/04/2023,Colo Colo,CD Palestino,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+CHL1,23-24,23/04/2023,Everton,Universidad de Chile,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+CHL1,23-24,23/04/2023,CD Huachipato,Union La Calera,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+CHL1,23-24,23/04/2023,Deportes Magallanes,Deportes Copiapo,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+CHL1,23-24,23/04/2023,Nublense,Audax Italiano,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+CHL1,23-24,23/04/2023,Universidad Catolica,Higgins,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+CHL1,23-24,23/04/2023,Union Espanola,Coquimbo Unido,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+DZA1,22-23,15/04/2023,Khenchela,ES Setif,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+DZA1,22-23,15/04/2023,Chelghoum Laid,Paradou AC,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+DZA1,22-23,15/04/2023,ASO Chlef,Biskra,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+DZA1,22-23,15/04/2023,El Bayadh,Magra,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+DZA1,22-23,15/04/2023,CS Constantine,JS Saoura,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+DZA1,22-23,15/04/2023,USM Alger,MC Alger,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+DZA1,22-23,15/04/2023,JS Kabylie,MC Oran,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+DZA1,22-23,15/04/2023,CR Belouizdad,RC Arbaa,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+DZA1,22-23,22/04/2023,JS Saoura,USM Alger,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+DZA1,22-23,22/04/2023,RC Arbaa,ASO Chlef,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+DZA1,22-23,22/04/2023,Magra,CR Belouizdad,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+DZA1,22-23,22/04/2023,Paradou AC,El Bayadh,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+DZA1,22-23,22/04/2023,MC Alger,Khenchela,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+DZA1,22-23,22/04/2023,Biskra,CS Constantine,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+DZA1,22-23,22/04/2023,ES Setif,JS Kabylie,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+DZA1,22-23,22/04/2023,MC Oran,Chelghoum Laid,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+ENG1,22-23,15/04/2023,Aston Villa,Newcastle United,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+ENG1,22-23,15/04/2023,Chelsea,Brighton,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+ENG1,22-23,15/04/2023,Everton,Fulham,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+ENG1,22-23,15/04/2023,Southampton,Crystal Palace,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+ENG1,22-23,15/04/2023,Leeds United,Liverpool,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+ENG1,22-23,15/04/2023,Manchester City,Leicester City,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+ENG1,22-23,15/04/2023,Nottingham Forest,Manchester United,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+ENG1,22-23,15/04/2023,Tottenham Hotspur,Bournemouth,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+ENG1,22-23,15/04/2023,West Ham United,Arsenal,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+ENG1,22-23,15/04/2023,Wolverhampton,Brentford,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+ENG1,22-23,22/04/2023,Bournemouth,West Ham United,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+ENG1,22-23,22/04/2023,Brighton,Manchester City,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+ENG1,22-23,22/04/2023,Crystal Palace,Everton,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+ENG1,22-23,22/04/2023,Arsenal,Southampton,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+ENG1,22-23,22/04/2023,Brentford,Aston Villa,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+ENG1,22-23,22/04/2023,Fulham,Leeds United,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+ENG1,22-23,22/04/2023,Liverpool,Nottingham Forest,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+ENG1,22-23,22/04/2023,Leicester City,Wolverhampton,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+ENG1,22-23,22/04/2023,Manchester United,Chelsea,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+ENG1,22-23,22/04/2023,Newcastle United,Tottenham Hotspur,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+ENG2,22-23,15/04/2023,Sunderland,Birmingham City,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+ENG2,22-23,15/04/2023,Blackburn Rovers,Hull City,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+ENG2,22-23,15/04/2023,Blackpool,Wigan Athletic,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+ENG2,22-23,15/04/2023,Middlesbrough,Norwich City,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+ENG2,22-23,15/04/2023,Millwall,Preston North End,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+ENG2,22-23,15/04/2023,Reading,Burnley,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+ENG2,22-23,15/04/2023,Watford,Bristol City,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+ENG2,22-23,15/04/2023,Queens Park Rangers,Coventry City,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+ENG2,22-23,15/04/2023,Rotherham United,Luton Town,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+ENG2,22-23,15/04/2023,Sheffield United,Cardiff City,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+ENG2,22-23,15/04/2023,Stoke City,West Bromwich Albion,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+ENG2,22-23,15/04/2023,Swansea City,Huddersfield Town,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+ENG2,22-23,18/04/2023,Sunderland,Huddersfield Town,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+ENG2,22-23,18/04/2023,Blackpool,West Bromwich Albion,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+ENG2,22-23,18/04/2023,Millwall,Birmingham City,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+ENG2,22-23,18/04/2023,Rotherham United,Burnley,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+ENG2,22-23,18/04/2023,Sheffield United,Bristol City,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+ENG2,22-23,18/04/2023,Stoke City,Wigan Athletic,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+ENG2,22-23,19/04/2023,Blackburn Rovers,Coventry City,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+ENG2,22-23,19/04/2023,Middlesbrough,Hull City,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+ENG2,22-23,19/04/2023,Watford,Cardiff City,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+ENG2,22-23,19/04/2023,Queens Park Rangers,Norwich City,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+ENG2,22-23,19/04/2023,Swansea City,Preston North End,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+ENG2,22-23,19/04/2023,Reading,Luton Town,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+ENG3,22-23,15/04/2023,Accrington,Fleetwood Town,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+ENG3,22-23,15/04/2023,Bristol Rovers,Derby County,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+ENG3,22-23,15/04/2023,Burton,Sheffield Wednesday,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+ENG3,22-23,15/04/2023,Cambridge,Peterborough United,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+ENG3,22-23,15/04/2023,Exeter City,Plymouth Argyle,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+ENG3,22-23,15/04/2023,Morecambe,Wycombe Wanderers,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+ENG3,22-23,15/04/2023,Forest Green,Barnsley,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+ENG3,22-23,15/04/2023,Ipswich Town,Charlton Athletic,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+ENG3,22-23,15/04/2023,Lincoln,Port Vale,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+ENG3,22-23,15/04/2023,Milton Keynes Dons,Cheltenham,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+ENG3,22-23,15/04/2023,Oxford United,Bolton,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+ENG3,22-23,15/04/2023,Shrewsbury Town,Portsmouth,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+ENG3,22-23,18/04/2023,Accrington,Peterborough United,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+ENG3,22-23,18/04/2023,Bristol Rovers,Sheffield Wednesday,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+ENG3,22-23,18/04/2023,Burton,Bolton,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+ENG3,22-23,18/04/2023,Cambridge,Wycombe Wanderers,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+ENG3,22-23,18/04/2023,Exeter City,Derby County,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+ENG3,22-23,18/04/2023,Morecambe,Cheltenham,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+ENG3,22-23,18/04/2023,Forest Green,Fleetwood Town,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+ENG3,22-23,18/04/2023,Ipswich Town,Port Vale,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+ENG3,22-23,18/04/2023,Lincoln,Barnsley,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+ENG3,22-23,18/04/2023,Milton Keynes Dons,Charlton Athletic,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+ENG3,22-23,18/04/2023,Oxford United,Portsmouth,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+ENG3,22-23,18/04/2023,Shrewsbury Town,Plymouth Argyle,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+ENG4,22-23,15/04/2023,Carlisle,Northampton Town,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+ENG4,22-23,15/04/2023,Crawley Town,Tranmere,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+ENG4,22-23,15/04/2023,Crewe Alexandra,Walsall,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+ENG4,22-23,15/04/2023,Gillingham,Stockport County,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+ENG4,22-23,15/04/2023,Stevenage,AFC Wimbledon,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+ENG4,22-23,15/04/2023,Grimsby,Mansfield Town,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+ENG4,22-23,15/04/2023,Harrogate Town,Doncaster Rovers,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+ENG4,22-23,15/04/2023,Newport County,Hartlepool,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+ENG4,22-23,15/04/2023,Rochdale,Bradford,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+ENG4,22-23,15/04/2023,Salford City,Colchester,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+ENG4,22-23,15/04/2023,Sutton United,Leyton Orient,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+ENG4,22-23,15/04/2023,Swindon Town,Barrow,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+ENG4,22-23,18/04/2023,Carlisle,Stockport County,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+ENG4,22-23,18/04/2023,Crawley Town,Colchester,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+ENG4,22-23,18/04/2023,Crewe Alexandra,AFC Wimbledon,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+ENG4,22-23,18/04/2023,Gillingham,Leyton Orient,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+ENG4,22-23,18/04/2023,Stevenage,Doncaster Rovers,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+ENG4,22-23,18/04/2023,Grimsby,Barrow,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+ENG4,22-23,18/04/2023,Harrogate Town,Walsall,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+ENG4,22-23,18/04/2023,Newport County,Mansfield Town,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+ENG4,22-23,18/04/2023,Rochdale,Tranmere,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+ENG4,22-23,18/04/2023,Salford City,Hartlepool,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+ENG4,22-23,18/04/2023,Sutton United,Northampton Town,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+ENG4,22-23,18/04/2023,Swindon Town,Bradford,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+ENG5,22-23,15/04/2023,Aldershot,Scunthorpe United,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+ENG5,22-23,15/04/2023,Boreham Wood,Wealdstone,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+ENG5,22-23,15/04/2023,Dorking Wanderers,Altrincham,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+ENG5,22-23,15/04/2023,Barnet,Wrexham,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+ENG5,22-23,15/04/2023,Chesterfield,Eastleigh,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+ENG5,22-23,15/04/2023,Gateshead,Bromley,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+ENG5,22-23,15/04/2023,Halifax,Maidstone,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+ENG5,22-23,15/04/2023,Notts County,Woking,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+ENG5,22-23,15/04/2023,Oldham Athletic,Maidenhead United,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+ENG5,22-23,15/04/2023,Solihull,Yeovil Town,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+ENG5,22-23,15/04/2023,Southend,Dagenham and Redbridge,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+ENG5,22-23,15/04/2023,Torquay,York City,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+ENG5,22-23,22/04/2023,Altrincham,Torquay,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+ENG5,22-23,22/04/2023,Bromley,Chesterfield,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+ENG5,22-23,22/04/2023,Dagenham and Redbridge,Halifax,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+ENG5,22-23,22/04/2023,Eastleigh,Solihull,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+ENG5,22-23,22/04/2023,Woking,Gateshead,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+ENG5,22-23,22/04/2023,Maidenhead United,Barnet,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+ENG5,22-23,22/04/2023,Maidstone,Notts County,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+ENG5,22-23,22/04/2023,Scunthorpe United,Southend,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+ENG5,22-23,22/04/2023,Wealdstone,Dorking Wanderers,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+ENG5,22-23,22/04/2023,Wrexham,Boreham Wood,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+ENG5,22-23,22/04/2023,Yeovil Town,Oldham Athletic,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+ENG5,22-23,22/04/2023,York City,Aldershot,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+FRA1,22-23,16/04/2023,Auxerre,Nantes,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+FRA1,22-23,16/04/2023,Monaco,Lorient,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+FRA1,22-23,16/04/2023,Clermont,Angers SCO,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+FRA1,22-23,16/04/2023,Toulouse,Olympique Lyonnais,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+FRA1,22-23,16/04/2023,Olympique Marseille,Troyes,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+FRA1,22-23,16/04/2023,Lille,Montpellier,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+FRA1,22-23,16/04/2023,Paris Saint-Germain,Lens,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+FRA1,22-23,16/04/2023,RC Strasbourg,AC Ajaccio,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+FRA1,22-23,16/04/2023,Brest,Nice,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+FRA1,22-23,16/04/2023,Rennes,Stade de Reims,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+FRA1,22-23,23/04/2023,AC Ajaccio,Brest,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+FRA1,22-23,23/04/2023,Auxerre,Lille,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+FRA1,22-23,23/04/2023,Lorient,Toulouse,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+FRA1,22-23,23/04/2023,Nantes,Troyes,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+FRA1,22-23,23/04/2023,Montpellier,Rennes,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+FRA1,22-23,23/04/2023,Nice,Clermont,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+FRA1,22-23,23/04/2023,Olympique Lyonnais,Olympique Marseille,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+FRA1,22-23,23/04/2023,Lens,Monaco,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+FRA1,22-23,23/04/2023,Angers SCO,Paris Saint-Germain,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+FRA1,22-23,23/04/2023,Stade de Reims,RC Strasbourg,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+FRA2,22-23,15/04/2023,Guingamp,Amiens SC,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+FRA2,22-23,15/04/2023,Sochaux,FC Pau,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+FRA2,22-23,15/04/2023,Valenciennes,Chamois Niortais,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+FRA2,22-23,15/04/2023,Grenoble,St Etienne,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+FRA2,22-23,15/04/2023,Nimes Olympique,Havre AC,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+FRA2,22-23,15/04/2023,Rodez AF,Laval,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+FRA2,22-23,15/04/2023,SC Bastia,Annecy,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+FRA2,22-23,15/04/2023,Caen,Paris FC,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+FRA2,22-23,15/04/2023,US Quevilly,Dijon,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+FRA2,22-23,15/04/2023,FC Metz,Bordeaux,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+FRA2,22-23,22/04/2023,Havre AC,US Quevilly,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+FRA2,22-23,22/04/2023,St Etienne,FC Metz,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+FRA2,22-23,22/04/2023,Dijon,SC Bastia,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+FRA2,22-23,22/04/2023,Annecy,Rodez AF,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+FRA2,22-23,22/04/2023,Chamois Niortais,Caen,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+FRA2,22-23,22/04/2023,Paris FC,Nimes Olympique,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+FRA2,22-23,22/04/2023,FC Pau,Guingamp,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+FRA2,22-23,22/04/2023,Amiens SC,Valenciennes,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+FRA2,22-23,22/04/2023,Laval,Sochaux,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+FRA2,22-23,22/04/2023,Bordeaux,Grenoble,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+FRA3,22-23,14/04/2023,Nancy,Red Star,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+FRA3,22-23,14/04/2023,Bastia-Borgo,CS Sedan,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+FRA3,22-23,14/04/2023,Bourg Peronnas,Le Puy,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+FRA3,22-23,14/04/2023,Le Mans,LB Chateauroux,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+FRA3,22-23,14/04/2023,SO Cholet,Briochin,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+FRA3,22-23,14/04/2023,US Concarneau,Paris 13 Atletico,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+FRA3,22-23,14/04/2023,Orleans,FC Martigues,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+FRA3,22-23,14/04/2023,USL Dunkerque,US Avranches,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+FRA3,22-23,14/04/2023,FC Versailles,Villefranche Beaujolais,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+FRA3,22-23,21/04/2023,Bourg Peronnas,Le Mans,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+FRA3,22-23,21/04/2023,CS Sedan,FC Versailles,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+FRA3,22-23,21/04/2023,FC Martigues,USL Dunkerque,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+FRA3,22-23,21/04/2023,Red Star,Bastia-Borgo,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+FRA3,22-23,21/04/2023,Le Puy,Orleans,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+FRA3,22-23,21/04/2023,Paris 13 Atletico,Nancy,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+FRA3,22-23,21/04/2023,Briochin,LB Chateauroux,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+FRA3,22-23,21/04/2023,US Avranches,US Concarneau,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+FRA3,22-23,21/04/2023,Villefranche Beaujolais,SO Cholet,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+GER1,22-23,15/04/2023,VfB Stuttgart,Dortmund,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+GER1,22-23,15/04/2023,Wolfsburg,Leverkusen,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+GER1,22-23,15/04/2023,Werder Bremen,Freiburg,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+GER1,22-23,15/04/2023,FC Koln,Mainz 05,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+GER1,22-23,15/04/2023,Bayern Munich,Hoffenheim,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+GER1,22-23,15/04/2023,Eintracht Frankfurt,Monchengladbach,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+GER1,22-23,15/04/2023,Union Berlin,Bochum,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+GER1,22-23,15/04/2023,RB Leipzig,Augsburg,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+GER1,22-23,15/04/2023,Schalke 04,Hertha Berlin,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+GER1,22-23,22/04/2023,Mainz 05,Bayern Munich,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+GER1,22-23,22/04/2023,Leverkusen,RB Leipzig,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+GER1,22-23,22/04/2023,Monchengladbach,Union Berlin,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+GER1,22-23,22/04/2023,Hoffenheim,FC Koln,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+GER1,22-23,22/04/2023,Dortmund,Eintracht Frankfurt,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+GER1,22-23,22/04/2023,Bochum,Wolfsburg,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+GER1,22-23,22/04/2023,Augsburg,VfB Stuttgart,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+GER1,22-23,22/04/2023,Freiburg,Schalke 04,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+GER1,22-23,22/04/2023,Hertha Berlin,Werder Bremen,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+GER2,22-23,16/04/2023,Karlsruher SC,Arminia Bielefeld,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+GER2,22-23,16/04/2023,Kaiserslautern,Hamburger SV,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+GER2,22-23,16/04/2023,Fortuna Dusseldorf,Darmstadt 98,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+GER2,22-23,16/04/2023,Hannover 96,Heidenheim,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+GER2,22-23,16/04/2023,Holstein Kiel,Nurnberg,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+GER2,22-23,16/04/2023,Paderborn,Hansa Rostock,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+GER2,22-23,16/04/2023,Magdeburg,Sandhausen,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+GER2,22-23,16/04/2023,Greuther Furth,Jahn Regensburg,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+GER2,22-23,16/04/2023,St Pauli,Braunschweig,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+GER2,22-23,23/04/2023,Hansa Rostock,Greuther Furth,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+GER2,22-23,23/04/2023,Hamburger SV,St Pauli,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+GER2,22-23,23/04/2023,Sandhausen,Paderborn,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+GER2,22-23,23/04/2023,Heidenheim,Holstein Kiel,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+GER2,22-23,23/04/2023,Nurnberg,Fortuna Dusseldorf,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+GER2,22-23,23/04/2023,Arminia Bielefeld,Hannover 96,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+GER2,22-23,23/04/2023,Darmstadt 98,Karlsruher SC,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+GER2,22-23,23/04/2023,Braunschweig,Magdeburg,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+GER2,22-23,23/04/2023,Jahn Regensburg,Kaiserslautern,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+GER3,22-23,15/04/2023,Ingolstadt,VfB Oldenburg,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+GER3,22-23,15/04/2023,Viktoria Koln,MSV Duisburg,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+GER3,22-23,15/04/2023,Wehen Wiesbaden,Munich 1860,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+GER3,22-23,15/04/2023,RW Essen,Mannheim,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+GER3,22-23,15/04/2023,Osnabruck,Elversberg,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+GER3,22-23,15/04/2023,Dortmund II,SV Meppen,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+GER3,22-23,15/04/2023,SpVgg Bayreuth,Hallescher FC,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+GER3,22-23,15/04/2023,Saarbrucken,Dynamo Dresden,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+GER3,22-23,15/04/2023,Freiburg II,Zwickau,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+GER3,22-23,15/04/2023,Erzgebirge Aue,Verl,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+GER3,22-23,22/04/2023,MSV Duisburg,Wehen Wiesbaden,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+GER3,22-23,22/04/2023,Hallescher FC,Osnabruck,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+GER3,22-23,22/04/2023,Elversberg,Erzgebirge Aue,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+GER3,22-23,22/04/2023,Viktoria Koln,Ingolstadt,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+GER3,22-23,22/04/2023,Dynamo Dresden,Mannheim,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+GER3,22-23,22/04/2023,Zwickau,RW Essen,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+GER3,22-23,22/04/2023,Verl,Dortmund II,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+GER3,22-23,22/04/2023,SV Meppen,Saarbrucken,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+GER3,22-23,22/04/2023,VfB Oldenburg,Freiburg II,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+GER3,22-23,22/04/2023,Munich 1860,SpVgg Bayreuth,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+HOL1,22-23,14/04/2023,Excelsior,Go Ahead Eagles,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+HOL1,22-23,15/04/2023,Waalwijk,Groningen,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+HOL1,22-23,15/04/2023,Sparta Rotterdam,Heerenveen,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+HOL1,22-23,16/04/2023,NEC Nijmegen,Vitesse,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+HOL1,22-23,16/04/2023,Utrecht,Twente Enschede,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+HOL1,22-23,16/04/2023,Cambuur,Feyenoord Rotterdam,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+HOL1,22-23,16/04/2023,Volendam,PSV Eindhoven,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+HOL1,22-23,16/04/2023,For Sittard,AZ Alkmaar,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+HOL1,22-23,16/04/2023,Ajax Amsterdam,FC Emmen,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+HOL1,22-23,21/04/2023,Volendam,Cambuur,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+HOL1,22-23,22/04/2023,Heerenveen,FC Emmen,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+HOL1,22-23,22/04/2023,Groningen,NEC Nijmegen,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+HOL1,22-23,22/04/2023,Vitesse,Excelsior,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+HOL1,22-23,23/04/2023,Twente Enschede,Sparta Rotterdam,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+HOL1,22-23,23/04/2023,Go Ahead Eagles,For Sittard,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+HOL1,22-23,23/04/2023,PSV Eindhoven,Ajax Amsterdam,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+HOL1,22-23,23/04/2023,Feyenoord Rotterdam,Utrecht,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+HOL1,22-23,23/04/2023,AZ Alkmaar,Waalwijk,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+ITA1,22-23,16/04/2023,Fiorentina,Atalanta,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+ITA1,22-23,16/04/2023,Roma,Udinese,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+ITA1,22-23,16/04/2023,Bologna,AC Milan,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+ITA1,22-23,16/04/2023,Torino,Salernitana,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+ITA1,22-23,16/04/2023,Internazionale Milano,Monza,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+ITA1,22-23,16/04/2023,Sassuolo,Juventus,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+ITA1,22-23,16/04/2023,Spezia,Lazio,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+ITA1,22-23,16/04/2023,Napoli,Hellas Verona,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+ITA1,22-23,16/04/2023,Cremonese,Empoli,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+ITA1,22-23,16/04/2023,Lecce,Sampdoria,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+ITA1,22-23,23/04/2023,AC Milan,Lecce,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+ITA1,22-23,23/04/2023,Atalanta,Roma,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+ITA1,22-23,23/04/2023,Empoli,Internazionale Milano,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+ITA1,22-23,23/04/2023,Hellas Verona,Bologna,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+ITA1,22-23,23/04/2023,Juventus,Napoli,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+ITA1,22-23,23/04/2023,Lazio,Torino,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+ITA1,22-23,23/04/2023,Sampdoria,Spezia,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+ITA1,22-23,23/04/2023,Monza,Fiorentina,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+ITA1,22-23,23/04/2023,Udinese,Cremonese,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+ITA1,22-23,23/04/2023,Salernitana,Sassuolo,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+ITA2,22-23,15/04/2023,Ascoli,FC Sudtirol,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+ITA2,22-23,15/04/2023,Benevento,Reggina,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+ITA2,22-23,15/04/2023,Cagliari,Frosinone,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+ITA2,22-23,15/04/2023,Genoa,Perugia,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+ITA2,22-23,15/04/2023,Cosenza,Cittadella,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+ITA2,22-23,15/04/2023,Modena,Parma,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+ITA2,22-23,15/04/2023,Venezia,Palermo,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+ITA2,22-23,15/04/2023,SPAL Ferrara,Brescia,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+ITA2,22-23,15/04/2023,Bari 1908,Como,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+ITA2,22-23,15/04/2023,Ternana,Pisa,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+ITA2,22-23,22/04/2023,Perugia,Cosenza,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+ITA2,22-23,22/04/2023,Pisa,Bari 1908,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+ITA2,22-23,22/04/2023,Cittadella,Genoa,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+ITA2,22-23,22/04/2023,Como,Ascoli,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+ITA2,22-23,22/04/2023,Modena,SPAL Ferrara,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+ITA2,22-23,22/04/2023,Frosinone,FC Sudtirol,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+ITA2,22-23,22/04/2023,Palermo,Benevento,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+ITA2,22-23,22/04/2023,Parma,Cagliari,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+ITA2,22-23,22/04/2023,Reggina,Brescia,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+ITA2,22-23,22/04/2023,Ternana,Venezia,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+MAR1,22-23,15/04/2023,Raja Casablanca,Jeunesse Sportive Soualem,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+MAR1,22-23,15/04/2023,Renaissance de Berkane,FUS de Rabat,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+MAR1,22-23,15/04/2023,Mouloudia Oujda,Maghrib de Fes,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+MAR1,22-23,15/04/2023,Ittihad Tanger,Olympique de Khouribga,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+MAR1,22-23,15/04/2023,FAR de Rabat,Moghreb de Tetouan,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+MAR1,22-23,15/04/2023,SC Chabab Mohammedia,Hassania US Agadir,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+MAR1,22-23,15/04/2023,Difaa Jadida,Olympique de Safi,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+MAR1,22-23,15/04/2023,Union de Touarga,Wydad AC,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+MAR1,22-23,22/04/2023,FUS de Rabat,Difaa Jadida,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+MAR1,22-23,22/04/2023,Jeunesse Sportive Soualem,Union de Touarga,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+MAR1,22-23,22/04/2023,Wydad AC,FAR de Rabat,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+MAR1,22-23,22/04/2023,Olympique de Safi,SC Chabab Mohammedia,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+MAR1,22-23,22/04/2023,Hassania US Agadir,Moghreb de Tetouan,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+MAR1,22-23,22/04/2023,Olympique de Khouribga,Mouloudia Oujda,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+MAR1,22-23,22/04/2023,Ittihad Tanger,Renaissance de Berkane,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+MAR1,22-23,22/04/2023,Maghrib de Fes,Raja Casablanca,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+MEX1,22-23,14/04/2023,Atletico San Luis,FC Juarez,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+MEX1,22-23,15/04/2023,Club Necaxa,Puebla FC,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+MEX1,22-23,15/04/2023,Mazatlan,Club Tijuana,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+MEX1,22-23,16/04/2023,Atlas Guadalajara,CF Pachuca,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+MEX1,22-23,16/04/2023,Club Leon,Deportivo Guadalajara,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+MEX1,22-23,16/04/2023,Cruz Azul,Club de Futbol America,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+MEX1,22-23,16/04/2023,Pumas de la UNAM,Deportivo Toluca,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+MEX1,22-23,17/04/2023,Gallos Blancos Queretaro FC,Tigres de la Universidad Autonoma,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+MEX1,22-23,17/04/2023,CF Monterrey,Santos Laguna,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+MEX1,22-23,21/04/2023,Tigres de la Universidad Autonoma,Puebla FC,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+MEX1,22-23,22/04/2023,Club Necaxa,Atlas Guadalajara,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+MEX1,22-23,22/04/2023,Mazatlan,CF Monterrey,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+MEX1,22-23,22/04/2023,Club Tijuana,Club Leon,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+MEX1,22-23,23/04/2023,CF Pachuca,Atletico San Luis,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+MEX1,22-23,23/04/2023,Deportivo Guadalajara,Cruz Azul,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+MEX1,22-23,23/04/2023,Club de Futbol America,Pumas de la UNAM,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+MEX1,22-23,23/04/2023,Deportivo Toluca,FC Juarez,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+NOR1,23-24,15/04/2023,Viking Stavanger,Lillestrom SK,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+NOR1,23-24,16/04/2023,Bodo/Glimt,Stabaek IF,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+NOR1,23-24,16/04/2023,FK Haugesund,Hamarkameratene,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+NOR1,23-24,16/04/2023,Molde FK,Rosenborg Trondheim,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+NOR1,23-24,16/04/2023,Odd Grenland,Brann Bergen,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+NOR1,23-24,16/04/2023,Sandefjord Fotball,Tromso IL,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+NOR1,23-24,16/04/2023,Stromsgodset IF,Aalesunds FK,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+NOR1,23-24,16/04/2023,Valerenga IF,Sarpsborg 08,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+NOR1,23-24,22/04/2023,Brann Bergen,Valerenga IF,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+NOR1,23-24,23/04/2023,Aalesunds FK,Bodo/Glimt,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+NOR1,23-24,23/04/2023,Hamarkameratene,Stromsgodset IF,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+NOR1,23-24,23/04/2023,Rosenborg Trondheim,Sandefjord Fotball,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+NOR1,23-24,23/04/2023,Sarpsborg 08,Odd Grenland,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+NOR1,23-24,23/04/2023,Stabaek IF,FK Haugesund,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+NOR1,23-24,23/04/2023,Tromso IL,Viking Stavanger,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+NOR1,23-24,23/04/2023,Lillestrom SK,Molde FK,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+POR1,22-23,16/04/2023,Famalicao,Guimaraes,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+POR1,22-23,16/04/2023,Porto,Santa Clara,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+POR1,22-23,16/04/2023,Rio Ave,Casa Pia AC,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+POR1,22-23,16/04/2023,Vizela,Boavista,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+POR1,22-23,16/04/2023,Chaves,Benfica,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+POR1,22-23,16/04/2023,Estoril,Portimonense,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+POR1,22-23,16/04/2023,Maritimo,Pacos Ferreira,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+POR1,22-23,16/04/2023,Sporting Braga,Gil Vicente,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+POR1,22-23,16/04/2023,Sporting Lisbon,Arouca,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+POR1,22-23,23/04/2023,Benfica,Estoril,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+POR1,22-23,23/04/2023,Boavista,Rio Ave,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+POR1,22-23,23/04/2023,Casa Pia AC,Sporting Braga,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+POR1,22-23,23/04/2023,Santa Clara,Chaves,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+POR1,22-23,23/04/2023,Arouca,Vizela,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+POR1,22-23,23/04/2023,Famalicao,Maritimo,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+POR1,22-23,23/04/2023,Pacos Ferreira,Porto,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+POR1,22-23,23/04/2023,Portimonense,Gil Vicente,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+POR1,22-23,23/04/2023,Guimaraes,Sporting Lisbon,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+RUS1,22-23,15/04/2023,Dinamo Moscow,Nizhny Novgorod,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+RUS1,22-23,15/04/2023,Fakel Voronezh,Terek Grozny,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+RUS1,22-23,15/04/2023,FC Orenburg,Lokomotiv Moscow,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+RUS1,22-23,15/04/2023,FK Rostov,Zenit St Petersburg,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+RUS1,22-23,15/04/2023,Krylia Sovetov,FK Khimki,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+RUS1,22-23,15/04/2023,Sochi,FK Krasnodar,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+RUS1,22-23,15/04/2023,Torpedo Moscow,Spartak Moscow,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+RUS1,22-23,15/04/2023,FK Ural,CSKA Moscow,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+RUS1,22-23,22/04/2023,Terek Grozny,Sochi,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+RUS1,22-23,22/04/2023,Fakel Voronezh,FC Orenburg,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+RUS1,22-23,22/04/2023,FK Khimki,Torpedo Moscow,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+RUS1,22-23,22/04/2023,Nizhny Novgorod,Krylia Sovetov,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+RUS1,22-23,22/04/2023,Spartak Moscow,FK Krasnodar,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+RUS1,22-23,22/04/2023,FK Ural,FK Rostov,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+RUS1,22-23,22/04/2023,Zenit St Petersburg,Dinamo Moscow,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+RUS1,22-23,22/04/2023,CSKA Moscow,Lokomotiv Moscow,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+RUS2,22-23,15/04/2023,Alania Vladikavkaz,FC Volgar Astrakhan,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+RUS2,22-23,15/04/2023,FC Ufa,Akron,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+RUS2,22-23,15/04/2023,FK Kamaz,Velves,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+RUS2,22-23,15/04/2023,Kuban Krasnodar,SKA-Energia Khabarovsk,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+RUS2,22-23,15/04/2023,FC Neftekhimik,FK Krasnodar 2,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+RUS2,22-23,15/04/2023,Rodina Moskva,Anzhi Makhachkala,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+RUS2,22-23,15/04/2023,Rubin Kazan,Shinnik Yaroslavl,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+RUS2,22-23,15/04/2023,Volga Ulyanovsk,Arsenal Tula,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+RUS2,22-23,15/04/2023,Enisey Krasnoyarsk,Baltika Kaliningrad,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+RUS2,22-23,22/04/2023,Akron,FC Neftekhimik,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+RUS2,22-23,22/04/2023,Arsenal Tula,Rubin Kazan,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+RUS2,22-23,22/04/2023,Baltika Kaliningrad,FC Ufa,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+RUS2,22-23,22/04/2023,Anzhi Makhachkala,Enisey Krasnoyarsk,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+RUS2,22-23,22/04/2023,FK Krasnodar 2,Kuban Krasnodar,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+RUS2,22-23,22/04/2023,Rodina Moskva,FK Kamaz,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+RUS2,22-23,22/04/2023,SKA-Energia Khabarovsk,Volga Ulyanovsk,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+RUS2,22-23,22/04/2023,FC Volgar Astrakhan,Velves,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+RUS2,22-23,22/04/2023,Shinnik Yaroslavl,Alania Vladikavkaz,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+SCO1,22-23,15/04/2023,Kilmarnock,Celtic Glasgow,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+SCO1,22-23,15/04/2023,Glasgow Rangers,St Mirren,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+SCO1,22-23,15/04/2023,Hibernian,Hearts,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+SCO1,22-23,15/04/2023,Livingston,St Johnstone,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+SCO1,22-23,15/04/2023,Motherwell,Dundee United,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+SCO1,22-23,15/04/2023,Ross County,Aberdeen,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+SCO1,22-23,22/04/2023,Celtic Glasgow,Motherwell,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+SCO1,22-23,22/04/2023,Dundee United,Livingston,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+SCO1,22-23,22/04/2023,Aberdeen,Glasgow Rangers,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+SCO1,22-23,22/04/2023,Hearts,Ross County,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+SCO1,22-23,22/04/2023,St Johnstone,Hibernian,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+SCO1,22-23,22/04/2023,St Mirren,Kilmarnock,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+SCO2,22-23,15/04/2023,Cove Rangers,Inverness CT,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+SCO2,22-23,15/04/2023,FC Dundee,Greenock Morton,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+SCO2,22-23,15/04/2023,Partick Thistle,Ayr United,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+SCO2,22-23,15/04/2023,Queens Park,Hamilton Academical,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+SCO2,22-23,15/04/2023,Raith Rovers,Arbroath,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+SCO2,22-23,22/04/2023,Arbroath,Cove Rangers,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+SCO2,22-23,22/04/2023,Ayr United,Queens Park,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+SCO2,22-23,22/04/2023,Hamilton Academical,Partick Thistle,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+SCO2,22-23,22/04/2023,Inverness CT,FC Dundee,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+SCO2,22-23,22/04/2023,Greenock Morton,Raith Rovers,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+SCO3,22-23,15/04/2023,Clyde,Edinburgh City,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+SCO3,22-23,15/04/2023,Dunfermline Athletic,Queen of the South,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+SCO3,22-23,15/04/2023,Falkirk,Airdrie United,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+SCO3,22-23,15/04/2023,Kelty Hearts,Alloa Athletic,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+SCO3,22-23,15/04/2023,Montrose,Peterhead,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+SCO3,22-23,22/04/2023,Airdrie United,Dunfermline Athletic,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+SCO3,22-23,22/04/2023,Alloa Athletic,Falkirk,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+SCO3,22-23,22/04/2023,Edinburgh City,Kelty Hearts,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+SCO3,22-23,22/04/2023,Peterhead,Clyde,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+SCO3,22-23,22/04/2023,Queen of the South,Montrose,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+SCO4,22-23,15/04/2023,Annan Athletic,Albion Rovers,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+SCO4,22-23,15/04/2023,Bonnyrigg Rose,Dumbarton,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+SCO4,22-23,15/04/2023,East Fife,Stranraer,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+SCO4,22-23,15/04/2023,Elgin City,Forfar Athletic,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+SCO4,22-23,15/04/2023,Stenhousemuir,Stirling Albion,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+SCO4,22-23,22/04/2023,Albion Rovers,Stenhousemuir,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+SCO4,22-23,22/04/2023,Dumbarton,East Fife,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+SCO4,22-23,22/04/2023,Forfar Athletic,Bonnyrigg Rose,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+SCO4,22-23,22/04/2023,Stirling Albion,Annan Athletic,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+SCO4,22-23,22/04/2023,Stranraer,Elgin City,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+SPA1,22-23,16/04/2023,Athletic Bilbao,Real Sociedad,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+SPA1,22-23,16/04/2023,Athletico Madrid,Almeria,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+SPA1,22-23,16/04/2023,Real Betis,Espanyol Barcelona,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+SPA1,22-23,16/04/2023,Celta de Vigo,Mallorca,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+SPA1,22-23,16/04/2023,Cadiz,Real Madrid,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+SPA1,22-23,16/04/2023,Getafe,FC Barcelona,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+SPA1,22-23,16/04/2023,Girona,Elche,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+SPA1,22-23,16/04/2023,Valencia,Sevilla FC,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+SPA1,22-23,16/04/2023,Villarreal,Valladolid,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+SPA1,22-23,16/04/2023,Vallecano,Osasuna,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+SPA1,22-23,23/04/2023,Osasuna,Real Betis,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+SPA1,22-23,23/04/2023,Espanyol Barcelona,Cadiz,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+SPA1,22-23,23/04/2023,FC Barcelona,Athletico Madrid,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+SPA1,22-23,23/04/2023,Elche,Valencia,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+SPA1,22-23,23/04/2023,Sevilla FC,Villarreal,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+SPA1,22-23,23/04/2023,Mallorca,Getafe,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+SPA1,22-23,23/04/2023,Real Madrid,Celta de Vigo,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+SPA1,22-23,23/04/2023,Real Sociedad,Vallecano,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+SPA1,22-23,23/04/2023,Valladolid,Girona,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+SPA1,22-23,23/04/2023,Almeria,Athletic Bilbao,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+SPA2,22-23,16/04/2023,Albacete,Eibar,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+SPA2,22-23,16/04/2023,Andorra,Huesca,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+SPA2,22-23,16/04/2023,Burgos,Ponferradina,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+SPA2,22-23,16/04/2023,Leganes,Villarreal B,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+SPA2,22-23,16/04/2023,Tenerife,Ibiza,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+SPA2,22-23,16/04/2023,Granada,Las Palmas,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+SPA2,22-23,16/04/2023,Malaga,Cartagena,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+SPA2,22-23,16/04/2023,Oviedo,Lugo,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+SPA2,22-23,16/04/2023,Zaragoza,Santander,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+SPA2,22-23,16/04/2023,Sporting Gijon,Alaves,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+SPA2,22-23,16/04/2023,Levante,Mirandes,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+SPA2,22-23,23/04/2023,Lugo,Malaga,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+SPA2,22-23,23/04/2023,Mirandes,Burgos,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+SPA2,22-23,23/04/2023,Alaves,Leganes,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+SPA2,22-23,23/04/2023,Cartagena,Sporting Gijon,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+SPA2,22-23,23/04/2023,Villarreal B,Albacete,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+SPA2,22-23,23/04/2023,Santander,Granada,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+SPA2,22-23,23/04/2023,Eibar,Zaragoza,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+SPA2,22-23,23/04/2023,Huesca,Tenerife,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+SPA2,22-23,23/04/2023,Ponferradina,Andorra,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+SPA2,22-23,23/04/2023,Ibiza,Oviedo,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+SPA2,22-23,23/04/2023,Las Palmas,Levante,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+SWE1,23-24,15/04/2023,AIK Solna,Hammarby IF,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+SWE1,23-24,15/04/2023,Hacken,Kalmar FF,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+SWE1,23-24,15/04/2023,Halmstads BK,Djurgardens,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+SWE1,23-24,15/04/2023,IF Elfsborg,Brommapojkarna,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+SWE1,23-24,15/04/2023,IFK Goteborg,Malmo FF,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+SWE1,23-24,15/04/2023,IFK Norrkoping,Varnamo,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+SWE1,23-24,15/04/2023,Mjallby AIF,Degerfors,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+SWE1,23-24,15/04/2023,Varberg,Sirius,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+SWE1,23-24,22/04/2023,Degerfors,IF Elfsborg,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+SWE1,23-24,22/04/2023,Djurgardens,IFK Goteborg,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+SWE1,23-24,22/04/2023,Hammarby IF,Varberg,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+SWE1,23-24,22/04/2023,Brommapojkarna,Mjallby AIF,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+SWE1,23-24,22/04/2023,Sirius,Hacken,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+SWE1,23-24,22/04/2023,Kalmar FF,Halmstads BK,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+SWE1,23-24,22/04/2023,Malmo FF,IFK Norrkoping,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+SWE1,23-24,22/04/2023,Varnamo,AIK Solna,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+USA1,23-24,16/04/2023,Charlotte FC,Colorado Rapids,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+USA1,23-24,16/04/2023,Columbus Crew,New England Revolution,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+USA1,23-24,16/04/2023,CF Montreal,D.C. United,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+USA1,23-24,16/04/2023,New York Red Bulls,Houston Dynamo,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+USA1,23-24,16/04/2023,New York City FC,Nashville SC,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+USA1,23-24,16/04/2023,Toronto FC,Atlanta United FC,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+USA1,23-24,16/04/2023,Austin FC,Vancouver Whitecaps,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+USA1,23-24,16/04/2023,Chicago Fire,Philadelphia Union,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+USA1,23-24,16/04/2023,FC Dallas,Real Salt Lake,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+USA1,23-24,16/04/2023,Minnesota,Orlando City,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+USA1,23-24,16/04/2023,St Louis City,FC Cincinnati,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+USA1,23-24,16/04/2023,Portland Timbers,Seattle Sounders,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+USA1,23-24,16/04/2023,San Jose Earthquakes,Sporting Kansas City,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+USA1,23-24,16/04/2023,Los Angeles Galaxy,Los Angeles FC,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+USA1,23-24,23/04/2023,Charlotte FC,Columbus Crew,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+USA1,23-24,23/04/2023,FC Cincinnati,Portland Timbers,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+USA1,23-24,23/04/2023,CF Montreal,New York Red Bulls,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+USA1,23-24,23/04/2023,New England Revolution,Sporting Kansas City,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+USA1,23-24,23/04/2023,New York City FC,FC Dallas,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+USA1,23-24,23/04/2023,Orlando City,D.C. United,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+USA1,23-24,23/04/2023,Philadelphia Union,Toronto FC,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+USA1,23-24,23/04/2023,Nashville SC,Los Angeles FC,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+USA1,23-24,23/04/2023,Colorado Rapids,St Louis City,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+USA1,23-24,23/04/2023,Real Salt Lake,San Jose Earthquakes,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+USA1,23-24,23/04/2023,Los Angeles Galaxy,Austin FC,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+USA1,23-24,23/04/2023,Seattle Sounders,Minnesota,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+USA1,23-24,23/04/2023,Atlanta United FC,Chicago Fire,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+ZAF1,22-23,21/04/2023,Maritzburg United,Richards Bay FC,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+ZAF1,22-23,22/04/2023,Golden Arrows,Mamelodi Sundowns,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+ZAF1,22-23,22/04/2023,Orlando Pirates,Cape Town City FC,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+ZAF1,22-23,22/04/2023,Stellenbosch,Moroka Swallows,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+ZAF1,22-23,23/04/2023,Tshakhuma Tsha Madzivhandila,Chippa United,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+ZAF1,22-23,23/04/2023,Tim Sukazi Galaxy,Bloemfontein Celtic,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+ZAF1,22-23,23/04/2023,Sekhukhune United,Kaizer Chiefs,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+ZAF1,22-23,23/04/2023,SuperSport United,AmaZulu,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+ZAF1,22-23,27/04/2023,Chippa United,Kaizer Chiefs,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+ZAF1,22-23,28/04/2023,Moroka Swallows,Maritzburg United,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+ZAF1,22-23,29/04/2023,Tshakhuma Tsha Madzivhandila,SuperSport United,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+ZAF1,22-23,29/04/2023,Stellenbosch,Golden Arrows,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+ZAF1,22-23,29/04/2023,Mamelodi Sundowns,Richards Bay FC,-1,-1,0,D,-1,-1,0.00,0.00,0.00
+ZAF1,22-23,29/04/2023,AmaZulu,Sekhukhune United,-1,-1,0,D,-1,-1,0.00,0.00,0.00

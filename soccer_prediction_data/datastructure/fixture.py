@@ -76,15 +76,7 @@ class Fixture(mongoengine.Document):
         "db_alias": "inStat",
         "collection": "Fixture",
     }
-
-    @classmethod
-    def get_all_games(
-        cls,
-        limit: int = None,  # Number of rows.
-    ):  # List of Fixture output.
-        "Extract all games."
-        return cls.objects().order_by("gameDate").limit(limit)
-
+    
     @classmethod
     def get_game(
         cls,
@@ -101,7 +93,7 @@ class Fixture(mongoengine.Document):
     ):  # List of Fixture output.
         "Extract all games of given competitions."
         return (
-            cls.objects(competition_id__in=competition_ids)
+            cls.objects(competition_id__in=competition_ids,)
             .order_by("gameDate")
             .limit(limit)
         )
