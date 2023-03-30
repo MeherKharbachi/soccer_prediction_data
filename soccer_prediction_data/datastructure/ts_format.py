@@ -6,7 +6,7 @@ __all__ = ['FILE_METADATA', 'create_ts_file']
 # %% ../../nbs/dataStrcuture/05_ts_format.ipynb 3
 import pandas as pd
 from pathlib import Path
-from typing import Dict
+from typing import Dict, Tuple
 from ..config.mongo import mongo_init
 from soccer_prediction_data.datastructure.data_extractor import (
     STATS,
@@ -14,7 +14,7 @@ from soccer_prediction_data.datastructure.data_extractor import (
     data_aggregator,
 )
 
-# %% ../../nbs/dataStrcuture/05_ts_format.ipynb 4
+# %% ../../nbs/dataStrcuture/05_ts_format.ipynb 5
 FILE_METADATA = {
     "source": "InStat",
     "creator": "Real-Analytics",
@@ -29,7 +29,7 @@ FILE_METADATA = {
     "class_label": "true",
 }
 
-# %% ../../nbs/dataStrcuture/05_ts_format.ipynb 5
+# %% ../../nbs/dataStrcuture/05_ts_format.ipynb 11
 def create_ts_file(
     df: pd.DataFrame,  # Pandas Dataframe input.
     file_path: str = ".",  # Where should we save our file ??.
@@ -38,13 +38,13 @@ def create_ts_file(
 ) -> None:
     "Create a ts file from a Pandas dataframe."
 
-    # Check path.    
+    # Check path.
     Path(file_path).mkdir(parents=True, exist_ok=True)
 
     # Create an empty ts file.
     with open(f"{file_path}/{file_name}.ts", "w") as f:
-        # Add data length for each dimension.
-        file_metadata["series_length"] = len(STATS)
+        # Add data length in file metadata.
+        file_metadata["series_length"] = len(STATS)+1
         # Init header file information.
         header = "\n".join(
             (
@@ -75,34 +75,32 @@ def create_ts_file(
         for _, row in df.iterrows():
             # Extract game information.
             # Home team features.
+            home_team_id = row["homeTeamId"]
             home_team_feats = row.filter(like="homeTeam")[2:].tolist()
             # Away team features.
-            away_team_feats = row.filter(like="awayTeam")[2:].tolist()
-            # target values (team Ids and scored goals)
-            home_team_id = row["homeTeamId"]
-            home_team_goals = row["HS"]
             away_team_id = row["awayTeamId"]
-            away_team_goals = row["AS"]
+            away_team_feats = row.filter(like="awayTeam")[2:].tolist()
             
             # Add temporal feature.
             # Home.
             home_team_period = 0
             if home_team_id in team_last_game:
-                home_team_period = (row["gameDate"] - team_last_game[home_team_id]).days + 1
+                home_team_period = (
+                    row["gameDate"] - team_last_game[home_team_id]
+                ).days + 1
             team_last_game[home_team_id] = row["gameDate"]
-            
+
             # Away.
             away_team_period = 0
             if away_team_id in team_last_game:
-                away_team_period = (row["gameDate"] - team_last_game[away_team_id]).days + 1
+                away_team_period = (
+                    row["gameDate"] - team_last_game[away_team_id]
+                ).days + 1
             team_last_game[away_team_id] = row["gameDate"]
-            
+
             # Put on each row each team features.
-            h_data_str = (
-                f"{','.join(str(val) for val in home_team_feats)},{home_team_period}:{home_team_goals},{home_team_id}"
-            )
-            a_data_str = (
-                f"{','.join(str(val) for val in away_team_feats)},{away_team_period}:{away_team_goals},{away_team_id}"
-            )
+            # Add target values(gameId, home and away team Id, scored goals by the given team)
+            h_data_str = f"{','.join(str(val) for val in home_team_feats)},{home_team_period}:{row.gameId},{home_team_id},{away_team_id},{row.HS}"
+            a_data_str = f"{','.join(str(val) for val in away_team_feats)},{away_team_period}:{row.gameId},{home_team_id},{away_team_id},{row.AS}"
             # Write stringq to the ts file.
             f.write("\n" + h_data_str + "\n" + a_data_str)
